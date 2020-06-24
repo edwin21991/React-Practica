@@ -9,4 +9,4 @@ const Categories = ({children, title})=>(
   </div>
 )
 
-export default Categories
+export default Categories 
